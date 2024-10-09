@@ -497,7 +497,9 @@ body {
 .footer-icon-link:focus {
   background-color: #31d0aa;
 }
-
+.footer-subscribe {
+  margin-left: 80px;
+}
 .footer-subscribe-form {
   display: flex;
   gap: 24px;
@@ -543,6 +545,9 @@ body {
   background-color: #4d5ae5;
 }
 .footer-subscribe-icon {
+  fill: #fff;
+  width: 24px;
+  height: 24px;
   margin-left: 16px;
 }
 
