@@ -35,6 +35,7 @@ body {
   color: #434455;
   background: #ffffff;
 }
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -51,6 +52,7 @@ body {
 .accent-color {
   color: #4d5ae5;
 }
+
 /* ===/COMMON STYLES=== */
 
 /* ===HEADER STYLES=== */
